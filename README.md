@@ -1,67 +1,22 @@
-<div align="center">
+﻿# Hi, I'm Arda
 
-# Hi there, I'm Arda Akgül 👋
+Ankara, Turkiye | Econ & BA Student | TED University
 
-### Economics & Business Administration Student @ TED University
-### Undergraduate Research Assistant | Founder @ Monarch Castle
+<p align="left">
+  <img src="https://img.shields.io/badge/Economics-255E63?style=flat-square&logo=google-scholar&logoColor=white" alt="Economics" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-F24E1E?style=flat-square&logo=databricks&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Tech-000000?style=flat-square&logo=openai&logoColor=white" alt="AI and Tech" />
+  <img src="https://img.shields.io/badge/Sustainability-4CAF50?style=flat-square&logo=microbit&logoColor=white" alt="Sustainability" />
+</p>
 
-[![Website](https://img.shields.io/badge/Website-akgularda.com-blue?style=for-the-badge&logo=google-chrome)](https://akgularda.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arda%20Akgül-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ardakgul)
+> 4th-year undergraduate blending Economics, AI, and Sustainability. Currently researching the impacts of trade policies and building automated tech tools to solve real-world problems.
 
-</div>
+- [akgularda.com](https://akgularda.com) - My personal portfolio and research
+- [linkedin.com/in/ardakgul](https://www.linkedin.com/in/ardakgul) - Let's connect
 
----
+## Current Projects
 
-## 🚀 About Me
-
-I am an **Undergraduate Research Assistant** at the **TED University Sustainable Trade Research Center (TEDUsTRC)** and the **Founder** of **Monarch Castle Technologies**.
-
-My work and research focus on the intersection of **International Economics**, **Cryptography**, and **Digital Identity**. I am exploring how technology reshapes economic systems, from **Smart City layouts** to **Blockchain-based governance**.
-
-*   🔭 I’m currently building **[Monarch Castle](https://github.com/akgularda/MonarchCastle)** (Financial Intelligence & Defense).
-*   📚 I serve on the Supervisory Board of the **TEDU Economics Research Union**.
-*   🎙️ I have a background in media as an Editor & Host at **RadioTEDU**.
-
----
-
-## 🛠️ Skills & Interests
-
-<div align="center">
-
-| **Core Focus** | **Technical Tools** | **Research Areas** |
-| :---: | :---: | :---: |
-| International Economics | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Digital Identity |
-| Urban Mobility | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | Blockchain Systems |
-| Sustainable Trade | **Stata / Excel** | Surveillance Economy |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgularda&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-### 🏰 [Monarch Castle](https://github.com/akgularda/MonarchCastle)
-*   **Role:** Founder
-*   **Focus:** Data Analysis & Prediction Models for Defense/Finance.
-
-### 🇹🇷 [SuperLig Prediction Model](https://github.com/akgularda/SuperLig_Prediction)
-*   **Focus:** Predictive Modeling for Sports Analytics.
-
-### 🌦️ [Cloudy-Shiny Index](https://github.com/akgularda/Cloudy-Shiny)
-*   **Focus:** Real-time Environmental Indexing.
-
----
-
-<div align="center">
-  <sub><i>"Bridging economic theory with modern systems."</i></sub>
-</div>
+- **bnti** (coming soon) - An index of the conflict level of Turkiye's neighbours
+- [**Cloudy-Shiny**](https://github.com/akgularda/Cloudy-Shiny) - An index that covers major financial instruments around the globe, like fear and greed index
+- [**macrointel**](https://github.com/akgularda/macrointel) - A graph view of countries' economics outlook
+- [**supplychain**](https://github.com/akgularda/supplychain) - Top 100 market cap companies' supply chain
