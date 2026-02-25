@@ -16,7 +16,7 @@ Ankara, Turkiye | Econ & BA Student | TED University
 
 ## Current Projects
 
-- **bnti** (coming soon) - An index of the conflict level of Turkiye's neighbours
-- [**Cloudy-Shiny**](https://github.com/akgularda/Cloudy-Shiny) - An index that covers major financial instruments around the globe, like fear and greed index
-- [**macrointel**](https://github.com/akgularda/macrointel) - A graph view of countries' economics outlook
-- [**supplychain**](https://github.com/akgularda/supplychain) - Top 100 market cap companies' supply chain
+- [**BNTI**](https://akgularda.github.io/border-neighbor-threat-index/) - An index of the conflict level of Turkiye's neighbours
+- [**Cloudy-Shiny**](https://akgularda.github.io/Cloudy-Shiny) - An index that covers major financial instruments around the globe, like fear and greed index
+- [**macrointel**](https://akgularda.github.io/macrointel) - A graph view of countries' economics outlook
+- [**supplychain**](https://akgularda.github.io/supplychain) - Top 100 market cap companies' supply chain
